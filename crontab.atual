@@ -1,0 +1,4 @@
+#---------------
+# Cria arquivo de diario
+1 0 * * * python3 /home/wilson/utilitarios/diario/diario.py >> /home/wilson/utilitarios/diario/diario.log 2>> /home/wilson/utilitarios/diario/diario.log
+#--- fim do arquivo ---#
