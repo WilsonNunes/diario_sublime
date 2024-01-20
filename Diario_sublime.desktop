@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Diario
+Exec=python3 /home/wilson/utilitarios/diario/diario_sublime.py
+Comment=Abre um pagina de diário no Sublime
+Terminal=false
+Icon=/home/wilson/utilitarios/diario/diario2.png
+Type=Application
